@@ -1,2 +1,2 @@
 # first-repository
-this is my fist github repository
+This is my fist github repository
